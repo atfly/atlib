@@ -1,0 +1,1 @@
+load data local infile 'D:\title.txt'  into table title(title) 

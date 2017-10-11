@@ -2,147 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4ed32eb-3548-401e-b57f-a118596ab98b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-chinese_email/data/rt-polaritydata/rt-polarity.neg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-chinese_email/data/rt-polaritydata/rt-polarity.pos" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-chinese_email/data_helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-chinese_email/eval.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-chinese_email/text_cnn.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-chinese_email/train.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/data/ham_100.utf8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/data/ham_5000.utf8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/data/spam_100.utf8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/data/spam_5000.utf8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/data_helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/eval.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/text_cnn.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/train.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/dl/cnn_classifer-tf-english_email/word2vec_helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/etl/read_csv/Advertising.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/etl/read_csv/read_csv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/etl/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/adaboost_classifier-adult_data_f1_recall/adaboost_classifier-adult_data_f1_recall.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/adaboost_classifier-adult_data_f1_recall/adult.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/adaboost_classifier-adult_data_f1_recall/adult.names" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/adaboost_classifier-adult_data_f1_recall/adult.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/adaboost_classifier-adult_data_f1_recall/adult.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/adaboost_classifier-basic_iris_data/adaboost_classifier-basic_iris_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/adaboost_classifier-basic_iris_data/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/affinity_propagation_clustering-basic/affinity_propagation_clustering-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/agglomerative_clustering-basic/agglomerative_clustering-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/all_clustering-compare/all_clustering-compare.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/arima-basic_air_passengers/AirPassengers.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/arima-basic_air_passengers/arima-basic_air_passengers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/bagging_regressor-enum_compare/bagging_regressor-enum_compare.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/dbscan_clustering-basic/dbscan_clustering-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/decision_tree_classifier-basic_iris/decision_tree_classifier-basic_iris.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/decision_tree_classifier-basic_iris/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/decision_tree_classifier-enum_iris/decision_tree_classifier-enum_iris.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/decision_tree_classifier-enum_iris/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/decision_tree_regressor-basic/decision_tree_regressor-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/decision_tree_regressor-multi_output/decision_tree_regressor-multi_output.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/dpgmm_em_clustering-basic/dpgmm_em_clustering_basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/gda-basic_sqrt/gda-basic_sqrt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/gmm_em_clustering-basic/gmm_em_clustering_basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/gmm_em_clustering-iris/gmm_em_clustering_iris.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/gmm_em_clustering-mle_mpl_plt/gmm_em_clustering_mle_mpl_plt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/gmm_em_clustering-predit_sex_by_height_weight/HeightWeight.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/gmm_em_clustering-predit_sex_by_height_weight/gmm_em_clustering_predict_sex_by_height_weight.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/gmm_em_clustering-tuning_parameters/gmm_em_clustering_tuning_parameters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/hdbscan_clustering-basic/hdbscan_clustering-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/index-classifier/index-classifier-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/index-classifier/index-classifier-report.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/index-clustering/index-clustering-kmeans.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/kmeans_clustering-basic_and_index/kmeans_clustering-basic_and_index.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/kmeans_clustering-vector_quantization/kmeans_clustering-vector_quantization.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/lda_nlp-basic_intro/LDA_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/lda_nlp-basic_intro/lda_nlp-basic_intro.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/lda_nlp-netease_news/lda_nlp-netease_news.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/lda_nlp-netease_news/stopword.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/lda_nlp-qq_chat_txt/lda_nlp-qq_chat_txt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/lda_nlp-reuters/lda_nlp-reuters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/lda_nlp-reuters/stopword.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-basic-advertising_sales/Advertising.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-basic-advertising_sales/linear_regression-advertising_sales.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-basic/linear-regression-workflow.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-basic/linear_regression-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-cv_l1_l2-advertising_sales/Advertising.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-cv_l1_l2-advertising_sales/linear_regression-cv_l1_l2-advertising_sales.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-poly_elastic_net-advertising_sales/Advertising.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-poly_elastic_net-advertising_sales/linear_regression-poly_elastic_net-advertising_sales.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/linear_regression-polynomial_pipeline/linear_regression-polynomial_pipeline.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/logistic_regression-basic_iris/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/logistic_regression-basic_iris/logistic_regression-basic_iris.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/mean_shift_clustering-basic/mean_shift_clustering-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/model_persistence-joblib/model_persistence-joblib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/random_forest_classifier-enum_iris/random_forest_classifier-enum_iris.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/random_forest_regressor-boston_house/housing.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/random_forest_regressor-boston_house/random_forest_regressor-boston_house.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/roc_auc-basic/roc_auc-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/roc_auc-knn_svm_lr_iris_sample/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/roc_auc-knn_svm_lr_iris_sample/roc_auc-knn_svm_lr_iris_sample.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/roc_auc-micro/roc_auc-micro.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/similarity_text-cosine/similar_text-cos.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-basic_iris_data/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-basic_iris_data/svm_classifier-basic_iris_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-draw_decision_function/svm_classifier-draw_decision_function.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-draw_parameters_tunning/svm_classifier-draw_parameters_tunning.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-generate_grid/svm_svc_classifier-generate_grid.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/HandWritten/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-hand_written_digits/svm_classifier-hand_written_digits.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-handle_unbalance_data/svm_classifier-handle_unbalance_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-mnist_data/MNIST.test.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-mnist_data/MNIST.train.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svc_classifier-mnist_data/svm_classifier-mnist_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svr_regression-basic/svm_svr_regression-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/svm_svr_regression-cv_basic/svm_svr_regression-cv_basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-basic_agaricus/agaricus_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-basic_agaricus/agaricus_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-basic_agaricus/xgboost_classifier-basic_agaricus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-iris_data/iris.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-iris_data/xgboost_classifier-iris_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-mnist_data/test.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-mnist_data/train.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-mnist_data/xgboost_classifier-mnist_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-multi_model_compare_wine_data/wine.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-multi_model_compare_wine_data/xgboost_classifier-multi_model_compare_wine_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-titanic_data/Titanic.test.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-titanic_data/Titanic.train.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-titanic_data/Titannic_Meta.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/ml/xgboost_classifier-titanic_data/xgboost_classifier-titanic_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/Doc2Vec/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/PLDA/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/PMI/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/Word2Vec/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/ngram-count/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/split-word/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/tf-idf/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/关键词抽取/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/句子拆分/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/字符串相似度/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/文本分类/新闻分类.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/文本摘要/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/文章相似度/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/条件随机场/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/条件随机场预测/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/简历识别/cv-check.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/简历识别/cv-reconginition.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/简历识别/简历识别.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ai/nlp/语义向量距离/readme.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -160,7 +20,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/ai/dl/text-classifer-cnn-tf_chinese_email/train.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -171,15 +31,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adaboost_classifier-adult_data_f1_recall.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="adaboost_classifier-adult_data_f1_recall.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/ai/ml/classifier/adaboost_classifier-adult_data_f1_recall/adaboost_classifier-adult_data_f1_recall.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding>
                 <element signature="e#42#60#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="value_all_posi.3.txt" pinned="false" current-in-tab="true">
+        <entry file="file://D:/value_all_posi.3.txt">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -222,6 +89,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -234,176 +103,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adaboost_classifier-adult_data_f1_recall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic-algorithm-gda-basic_sqrt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ai" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Python27/python.exe" />
+    <property name="last_opened_file_path" value="D:/value_all_posi.3.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected="Python.adaboost_classifier-adult_data_f1_recall">
@@ -532,6 +237,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -676,27 +387,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -718,7 +429,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/ai/ml/classifier/adaboost_classifier-adult_data_f1_recall/adult.data">
+    <entry file="file://$PROJECT_DIR$/data/ai/ml/classifier/adaboost_classifier-adult_data_f1_recall/adaboost_classifier-adult_data_f1_recall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ai/dl/text-classifer-cnn-tf_chinese_email/train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -726,14 +447,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/ai/ml/classifier/adaboost_classifier-adult_data_f1_recall/adult.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/ai/ml/classifier/adaboost_classifier-adult_data_f1_recall/adaboost_classifier-adult_data_f1_recall.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding>
             <element signature="e#42#60#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/value_all_posi.3.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
       </provider>
     </entry>
   </component>
