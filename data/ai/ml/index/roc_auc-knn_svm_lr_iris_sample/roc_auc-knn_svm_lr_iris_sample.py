@@ -42,14 +42,16 @@ if __name__ == '__main__':
     mpl.rcParams['font.sans-serif'] = u'SimHei'
     mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(7, 6), facecolor='w')
+
     for (name, model), color in zip(models, colors):
         model.fit(x, y)
         if hasattr(model, 'C_'):
-            print(model.C_)
+            print(name,'C_:',model.C_)
         if hasattr(model, 'best_params_'):
-            print(model.best_params_)
+            print( name,'best_params_:',model.best_params_)
         if hasattr(model, 'predict_proba'):
             y_score = model.predict_proba(x_test)
+            print (name,'predict_proba:',y_score)
         else:
             y_score = model.decision_function(x_test)
         fpr, tpr, thresholds = metrics.roc_curve(y_one_hot.ravel(), y_score.ravel())
@@ -67,4 +69,5 @@ if __name__ == '__main__':
     plt.legend(loc='lower right', fancybox=True, framealpha=0.8, fontsize=12)
     # plt.legend(loc='lower right', fancybox=True, framealpha=0.8, edgecolor='#303030', fontsize=12)
     plt.title(u'鸢尾花数据不同分类器的ROC和AUC', fontsize=17)
+    plt.ion()
     plt.show()
